@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="img.png" width="800"/>
+  <img decoding="async" src="Portada_LinkedIn.png" width="800"/>
 </div>
 
 ## ES Español (view English version below)
@@ -20,13 +20,13 @@ Actualmente estoy en la búsqueda de nuevos **retos profesionales** donde pueda 
 
 ---
 
-### 🛠️ Tecnologías que utilizo
+### Tecnologías que utilizo
 
 <div id="tools" align="center">
-  <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img decoding="async" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img decoding="async" src="Python_logo2.png" alt="Python" width="170"/>
+  <img decoding="async" src="SQL_logo.png" alt="SQL" width="170"/>
+  <img decoding="async" src="PowerBi_logo.png" alt="PowerBI" width="170"/>
+  <img decoding="async" src="Tableau_logo.png" alt="Tableau" width="170"/>
 </div>
 
 ---
@@ -51,7 +51,7 @@ Me encanta mejorar las habilidades que ya tengo y adquirir nuevos conocimientos,
 
 ---
 
-### 💻 Proyectos destacados
+### Proyectos destacados
 
 En mi perfil de GitHub encontrarás los diversos proyectos en los que he participado. Algunos de mis proyectos incluyen **Análisis de Datos con Python y SQL**, los cuales involucraron el análisis de grandes volúmenes de datos para obtener **información valiosa** y generar **informes predictivos**.
 
@@ -93,18 +93,17 @@ I´m currently looking for new **proffessional challenges** where I can practice
 
 ---
 
-### 🛠️ Technologies I use
+### Technologies I use
 
 <div id="tools" align="center">
-  <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img decoding="async" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img decoding="async" src="Python_logo2.png" alt="Python" width="170"/>
+  <img decoding="async" src="SQL_logo.png" alt="SQL" width="170"/>
+  <img decoding="async" src="PowerBi_logo.png" alt="PowerBI" width="170"/>
+  <img decoding="async" src="Tableau_logo.png" alt="Tableau" width="170"/>
 </div>
-
 ---
 
-### 🔑 Skills and abilities
+### Skills and abilities
 
 - **Data Analysis**
 - **Insight production**
@@ -118,7 +117,7 @@ I´m currently looking for new **proffessional challenges** where I can practice
 
 ---
 
-### 📚 Always learning
+### Always learning
 
 I enjoy improving the skills that I have already achieved and get new knowledge, dominating **new tools** and **methods** to provide more efficient data analyses. I´m currently learning deeply abput **SQL** and **Python**, as well as on dashboard and visualization softwares. 
 
